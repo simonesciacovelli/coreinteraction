@@ -1,0 +1,69 @@
+html,body{
+		margin:0;
+		width:100%;
+		height:100%;
+	}
+
+	div{
+		box-sizing: border-box;
+		float:left;
+		width:100%;
+		height:100%;
+	}
+	
+	.col50 { 
+		width:25%;
+		height: 72%;
+		border-bottom: 6px black solid;
+		border-right: 6px black solid;
+
+	}
+
+	.red{ 
+		width:75%;
+		height: 72%;
+		background-color: red;
+		border-right-style: none;
+		border-top-style: none;
+		border-bottom: 6px black solid;
+		border-left: 6px black solid;
+		
+	}
+
+	.row {
+		height: 28%;
+		width: 25%;
+		background-color: blue;
+		border-right: 6px black solid;
+		border-top: 6px black solid;
+	}
+
+	.middlerow {
+		width: 66%;
+		height: 28%;
+		border-right: 6px black solid;
+		border-top: 6px black solid;
+		border-left: 6px black solid;
+	}
+
+	.yellowcolumn {
+		width:9%;
+		height:28%;
+		background-color: yellow;
+		border-left: 6px black solid;
+		border-top: 6px black solid;
+	}
+
+	.segment {
+		height: 45%;
+		border-bottom: 25px black solid;
+	}
+
+	.squareyellow {
+		height: 58%;
+		border-right-style: none;
+		border-left-style: none;
+		border-top-style: none;
+		border-bottom: 20px black solid;
+		background-color: white;
+	}

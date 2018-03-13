@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+</body>
+<script>
+
+var anumber = 5;
+var astring = "simon";
+var abool = 5 <= 5;
+var avariable;
+//--same thing as
+//var avariable = undefined;
+
+var integer = 6;
+var float = 3.14159;
+var high = Infinity;
+var low = -Infinity;
+var veryHigh = 1000000000000000000000000000000000000000000000;
+var s = "🎃ỷ"
+
+console.log(abool);
+console.log(astring);
+console.log(anumber);
+console.log(avariable);
+console.log(veryHigh);
+
+////////////////////////
+
+var leftleft = "Vivek";
+var left = "Carolyn";
+var me = "Simon";
+var right = "Taylor";
+var rightright = "Xingman";
+
+//empty array, empty shelf
+var classmates = [];
+
+//var classmates = ["Vivek", "Carolyn", "Simon", "Taylor", "Xingman"]
+var classmates = [leftleft, left, me, right, rightright];
+
+console.log(classmates);
+
+//computers start counting at 0
+console.log(classmates[4] + 6);
+
+classmates.push("Leo");
+
+console.log(classmates);
+//console log jsut lets you look at things, doesn't change them. 
+
+////////////////////////
+
+// between 0.0 and 1.0
+//var randomnumber = Math.random();
+
+var randomnumber = Math.random() * 6;
+
+randomnumber = parseInt(randomnumber);
+
+console.log(randomnumber);
+
+//turn this random number into a intger from 0 to 5.
+
+var randomClassmate = classmates[randomnumber];
+
+document.body.innerHTML = randomClassmate;
+
+
+</script>
+</html>

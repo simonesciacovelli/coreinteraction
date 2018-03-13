@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+div{
+	position: absolute;
+}
+</style>
+</head>
+<body>
+</body>
+<script>
+
+var counter = 0;
+while(counter < 400){
+var d = document.createElement("div");
+
+var height = parseInt(Math.random()*500);
+var width = parseInt(Math.random()*500);
+var h = ""+height+"px"
+var w = ""+width+"px"
+d.style.width = w;
+d.style.height = h;
+
+var hue = 217;
+var saturation = parseInt(Math.random()*100);
+var lightness = parseInt(Math.random()*100);
+var color = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+d.style.backgroundColor = color;
+
+var left = parseInt(Math.random()*1000);
+var vtop = parseInt(Math.random()*500);
+var l = ""+left+"px"
+var t = ""+vtop+"px"
+d.style.left = l;
+d.style.top = t;
+
+document.body.appendChild(d);
+counter = counter + 1;
+}
+
+</script>
+</html>

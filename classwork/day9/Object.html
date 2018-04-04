@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+//object has two things in it description(key) and the varible(value)
+//array[]
+//object {}
+
+var weather = {
+	"temperature" : 48.15, 
+	"chanceofrain" : .1,
+	"humidty" : .5
+}
+console.log(weather);
+console.log(weather["temperature"]);
+
+var doublearray = [
+	["apple", "pear"],
+	["strawberry ","blueberry"],
+	["potato", "leek"],
+]
+
+//this
+console.log( doublearray[1][1] )
+//same as this
+var innerarray = doublearray[1];
+console.log( innerarray[1] ); 
+
+var classmates = {
+	"Simon" : {
+		"breakfast" : "croissant",
+		"animal" : "gryphon"
+	}, 
+	"Carolyn" : {
+		"breakfast" : "avocado toast",
+		"animal" : "tiger"
+	},
+	"Ana" : {
+		"breakfast" : "lox bagel",
+		"animal" : "pig"
+	}
+
+}
+console.log(classmates)
+console.log( classmates["Simon"]["animal"] )
+
+//weather["minutely"]["data"][0]["precipProbability"]
+//weather example
+
+</script>
+</body>
+</html>
+

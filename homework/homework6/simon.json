@@ -1,0 +1,20 @@
+{
+   "name":[
+      "Simone",
+      "Sciacovelli"
+   ],
+   "home":{
+      "latitude":40.891614,
+      "longitude":16.7550898
+   },
+   "url":"https://github.com/simonesciacovelli",
+   "favorites":{
+      "color":"#0E0E0E",
+      "book":{
+         "title":"À Rebours",
+         "author":"Huysmans"
+      },
+      "tool":"Adobe After Effects",
+      "temperature":0.01
+   }
+}

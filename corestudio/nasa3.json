@@ -1,0 +1,87 @@
+{
+	"nasa":[
+		{
+
+			"title" : "Preparations",
+			"color" : "gray",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/8.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/9.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/10.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/11.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/35.jpg"]
+		},
+
+		{
+			"title" : "Apollo Lunar Module",
+			"color" : "orange",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/5.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/12.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/14.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/15.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/21.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/24.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/25.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/26.jpg"]
+		},
+
+		{
+			"title" : "Rover",
+			"color" : "blue",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/4.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/34.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/37.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/38.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/39.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/40.jpg"
+			]
+		},
+		{
+			"title" : "Flag",	
+			"color" : "red",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/7.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/18.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/33.jpg"
+			]
+		},
+		{
+			"title" : "Exploring",
+			"color" : "green",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/1.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/2.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/16.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/22.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/23.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/27.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/30.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/31.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/32.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/36.jpg"
+			]
+		},
+		{
+			"title" : "Tools",
+			"color" : "purple",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/13.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/20.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/28.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/29.jpg"
+			]
+		},
+		{
+			"title" : "History",
+			"color" : "yellow",
+			"images" : [
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/3.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/6.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/17.jpg",
+				"https://raw.githubusercontent.com/simonesciacovelli/coreinteraction/master/corestudio/collection/19.jpg"
+			]
+		}
+	]
+}
